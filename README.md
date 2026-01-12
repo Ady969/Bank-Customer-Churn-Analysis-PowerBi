@@ -1,4 +1,6 @@
 # Bank-Customer-Churn-Analysis-PowerBi
+<img width="1911" height="970" alt="Bank churn SS" src="https://github.com/user-attachments/assets/0c1ce554-f6c1-4248-87b0-5f70bf9bac5c" />
+
 📊 Bank Customer Churn Analysis – Power BI Project
 
 This project focuses on analyzing bank customer churn using Power BI to identify key factors influencing customer retention and attrition.
